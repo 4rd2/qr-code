@@ -25,8 +25,7 @@
 
 ### What I learned
 
-I learned more about flexbox and css properties that helped me build this project. I learned how to center things on a page and had a lot of good practice with flexbox.
-
+I learned about Flexbox and various CSS properties, which helped me build this project. I practiced centering elements on a page and gained valuable hands-on experience with Flexbox.
 
 ```css
 html, body {
